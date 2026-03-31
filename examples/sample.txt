@@ -1,0 +1,16 @@
+# Manual de Processos Internos — Exemplo
+
+## Política de Férias
+Colaboradores têm direito a 30 dias de férias após 12 meses de trabalho.
+O pedido deve ser feito com 30 dias de antecedência via sistema RH.
+Férias podem ser divididas em até 3 períodos, sendo o maior deles mínimo de 14 dias.
+
+## Processo de Onboarding
+Novos colaboradores passam por 3 fases:
+1. Semana 1: Integração com equipe e sistemas
+2. Semana 2-3: Treinamento técnico específico da função
+3. Mês 2: Acompanhamento com mentor designado
+
+## Política de Home Office
+Colaboradores podem trabalhar em home office até 3 dias por semana.
+É necessário aprovação do gestor direto e disponibilidade para reuniões presenciais quando convocado.
